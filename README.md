@@ -12,7 +12,6 @@ Met een achtergrond in sociologie en een passie voor technologie en design, werk
 
 ## 💞️ Waar ik naar op zoek ben  
 - Frontend development functies waar ik mijn creativiteit en technische skills kan inzetten  
-- Samenwerkingen op het gebied van AI-gedreven software  
 
 ## 📫 Hoe je mij kunt bereiken  
 - **E-mail:** [leverwebdesign@gmail.com

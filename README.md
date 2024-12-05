@@ -5,10 +5,11 @@ Met een achtergrond in sociologie en een passie voor technologie en design, werk
 - Frontend development en UI/UX design  
 - Webontwikkeling met een focus op gebruiksvriendelijkheid
 - AI
+- Finance
 
 ## 🌱 Wat ik aan het leren ben  
 - API-integraties en interactieve webapplicaties  
-- AI en machine learning toepassingen voor HR  
+- AI en machine learning toepassingen
 
 ## 💞️ Waar ik naar op zoek ben  
 - Frontend development functies waar ik mijn creativiteit en technische skills kan inzetten  
